@@ -1,0 +1,15 @@
+{
+"companyName": "Aesthetician Labs",
+"productName": "Crazy Platez",
+"dataUrl": "crazy-platez-poki-webgl.data.unityweb",
+"wasmCodeUrl": "crazy-platez-poki-webgl.wasm.code.unityweb",
+"wasmFrameworkUrl": "crazy-platez-poki-webgl.wasm.framework.unityweb",
+"asmCodeUrl": "crazy-platez-poki-webgl.asm.code.unityweb",
+"asmMemoryUrl": "crazy-platez-poki-webgl.asm.memory.unityweb",
+"asmFrameworkUrl": "crazy-platez-poki-webgl.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#26202B"
+}
